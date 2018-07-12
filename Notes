@@ -1,0 +1,6 @@
+Instructors email : leslie@pirple.com
+Github repo: https://github.com/pirple/The-NodeJS-Master-Class
+node.js styles & coding convention: github repo airbnb
+
+Generate https keys:
+openssl req -newkey rsa:2048 -new -nodes -x509 -days 3650 -keyout key.pem -out cert.pem
